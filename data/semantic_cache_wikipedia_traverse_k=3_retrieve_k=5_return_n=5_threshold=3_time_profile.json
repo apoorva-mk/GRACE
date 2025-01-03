@@ -1,0 +1,1002 @@
+[
+    {
+        "NODE RETRIEVAL": 1.5224251747131348,
+        "NODE TRAVERSAL": 0.12270188331604004,
+        "DOCUMENT RETRIEVAL": 0.10955214500427246,
+        "READ FROM CACHE": 0.0,
+        "CACHE RETRIEVAL": 0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 5,
+        "SEMANTIC CACHE HITS": 0
+    },
+    {
+        "SEMANTIC CACHE HITS": 1,
+        "CACHE RETRIEVAL": 0.01503896713256836,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 2,
+        "CACHE RETRIEVAL": 0.01539921760559082,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 3,
+        "CACHE RETRIEVAL": 0.008614301681518555,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 4,
+        "CACHE RETRIEVAL": 0.00859379768371582,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 5,
+        "CACHE RETRIEVAL": 0.01652836799621582,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 6,
+        "CACHE RETRIEVAL": 0.005662202835083008,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 7,
+        "CACHE RETRIEVAL": 0.015286684036254883,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 8,
+        "CACHE RETRIEVAL": 0.018805265426635742,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 9,
+        "CACHE RETRIEVAL": 0.016655683517456055,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 10,
+        "CACHE RETRIEVAL": 0.005789995193481445,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 11,
+        "CACHE RETRIEVAL": 0.021724462509155273,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 12,
+        "CACHE RETRIEVAL": 0.0062067508697509766,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 13,
+        "CACHE RETRIEVAL": 0.022249460220336914,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 14,
+        "CACHE RETRIEVAL": 0.01748371124267578,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 15,
+        "CACHE RETRIEVAL": 0.022804975509643555,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 16,
+        "CACHE RETRIEVAL": 0.018123626708984375,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 17,
+        "CACHE RETRIEVAL": 0.016808032989501953,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 18,
+        "CACHE RETRIEVAL": 0.014637231826782227,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 19,
+        "CACHE RETRIEVAL": 0.005247592926025391,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 20,
+        "CACHE RETRIEVAL": 0.013189554214477539,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 21,
+        "CACHE RETRIEVAL": 0.016737937927246094,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 22,
+        "CACHE RETRIEVAL": 0.01844310760498047,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 23,
+        "CACHE RETRIEVAL": 0.016388893127441406,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 24,
+        "CACHE RETRIEVAL": 0.015952587127685547,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 25,
+        "CACHE RETRIEVAL": 0.022429227828979492,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 26,
+        "CACHE RETRIEVAL": 0.01975727081298828,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 27,
+        "CACHE RETRIEVAL": 0.018163681030273438,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 28,
+        "CACHE RETRIEVAL": 0.018216609954833984,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 29,
+        "CACHE RETRIEVAL": 0.01710057258605957,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 30,
+        "CACHE RETRIEVAL": 0.016005992889404297,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 31,
+        "CACHE RETRIEVAL": 0.0170595645904541,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 32,
+        "CACHE RETRIEVAL": 0.020095348358154297,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 33,
+        "CACHE RETRIEVAL": 0.021128416061401367,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 34,
+        "CACHE RETRIEVAL": 0.022438764572143555,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 35,
+        "CACHE RETRIEVAL": 0.01764965057373047,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 36,
+        "CACHE RETRIEVAL": 0.014310121536254883,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 37,
+        "CACHE RETRIEVAL": 0.00540614128112793,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 38,
+        "CACHE RETRIEVAL": 0.019730091094970703,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 39,
+        "CACHE RETRIEVAL": 0.01796579360961914,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 40,
+        "CACHE RETRIEVAL": 0.015541315078735352,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 41,
+        "CACHE RETRIEVAL": 0.018680334091186523,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 42,
+        "CACHE RETRIEVAL": 0.016645431518554688,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 43,
+        "CACHE RETRIEVAL": 0.015485286712646484,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 44,
+        "CACHE RETRIEVAL": 0.018528461456298828,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 45,
+        "CACHE RETRIEVAL": 0.011542081832885742,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 46,
+        "CACHE RETRIEVAL": 0.01672840118408203,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 47,
+        "CACHE RETRIEVAL": 0.015599250793457031,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 48,
+        "CACHE RETRIEVAL": 0.018561601638793945,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 49,
+        "CACHE RETRIEVAL": 0.0054779052734375,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 50,
+        "CACHE RETRIEVAL": 0.016530513763427734,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 51,
+        "CACHE RETRIEVAL": 0.01826643943786621,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 52,
+        "CACHE RETRIEVAL": 0.014776945114135742,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 53,
+        "CACHE RETRIEVAL": 0.01953411102294922,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 54,
+        "CACHE RETRIEVAL": 0.017130374908447266,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 55,
+        "CACHE RETRIEVAL": 0.01593947410583496,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 56,
+        "CACHE RETRIEVAL": 0.017694950103759766,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 57,
+        "CACHE RETRIEVAL": 0.02317523956298828,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 58,
+        "CACHE RETRIEVAL": 0.02045726776123047,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 59,
+        "CACHE RETRIEVAL": 0.021018266677856445,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 60,
+        "CACHE RETRIEVAL": 0.02730536460876465,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 61,
+        "CACHE RETRIEVAL": 0.01846790313720703,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 62,
+        "CACHE RETRIEVAL": 0.017106056213378906,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 63,
+        "CACHE RETRIEVAL": 0.015090465545654297,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 64,
+        "CACHE RETRIEVAL": 0.014669179916381836,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 65,
+        "CACHE RETRIEVAL": 0.009386062622070312,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 66,
+        "CACHE RETRIEVAL": 0.019628047943115234,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 67,
+        "CACHE RETRIEVAL": 0.020132064819335938,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 68,
+        "CACHE RETRIEVAL": 0.01633596420288086,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 69,
+        "CACHE RETRIEVAL": 0.016695737838745117,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 70,
+        "CACHE RETRIEVAL": 0.01853775978088379,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 71,
+        "CACHE RETRIEVAL": 0.015290498733520508,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 72,
+        "CACHE RETRIEVAL": 0.018775463104248047,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 73,
+        "CACHE RETRIEVAL": 0.005799055099487305,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 74,
+        "CACHE RETRIEVAL": 0.018706560134887695,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 75,
+        "CACHE RETRIEVAL": 0.01695084571838379,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 76,
+        "CACHE RETRIEVAL": 0.02056574821472168,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 77,
+        "CACHE RETRIEVAL": 0.017133474349975586,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 78,
+        "CACHE RETRIEVAL": 0.020702362060546875,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 79,
+        "CACHE RETRIEVAL": 0.01667475700378418,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 80,
+        "CACHE RETRIEVAL": 0.020669937133789062,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 81,
+        "CACHE RETRIEVAL": 0.01882171630859375,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 82,
+        "CACHE RETRIEVAL": 0.016543865203857422,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 83,
+        "CACHE RETRIEVAL": 0.017713069915771484,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 84,
+        "CACHE RETRIEVAL": 0.008449792861938477,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 85,
+        "CACHE RETRIEVAL": 0.02297353744506836,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 86,
+        "CACHE RETRIEVAL": 0.01245880126953125,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 87,
+        "CACHE RETRIEVAL": 0.006700754165649414,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 88,
+        "CACHE RETRIEVAL": 0.014677762985229492,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 89,
+        "CACHE RETRIEVAL": 0.017432212829589844,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 90,
+        "CACHE RETRIEVAL": 0.019005537033081055,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 91,
+        "CACHE RETRIEVAL": 0.019514083862304688,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 92,
+        "CACHE RETRIEVAL": 0.008294105529785156,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 93,
+        "CACHE RETRIEVAL": 0.017097949981689453,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 94,
+        "CACHE RETRIEVAL": 0.026030302047729492,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 95,
+        "CACHE RETRIEVAL": 0.015179872512817383,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 96,
+        "CACHE RETRIEVAL": 0.02009296417236328,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 97,
+        "CACHE RETRIEVAL": 0.0056383609771728516,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 98,
+        "CACHE RETRIEVAL": 0.005712032318115234,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    },
+    {
+        "SEMANTIC CACHE HITS": 99,
+        "CACHE RETRIEVAL": 0.02484440803527832,
+        "NODE RETRIEVAL": 0.0,
+        "NODE TRAVERSAL": 0.0,
+        "DOCUMENT RETRIEVAL": 0.0,
+        "READ FROM CACHE": 1.0,
+        "WRITE TO CACHE": 0.0,
+        "NUM TOTAL DOCUMENTS": 4
+    }
+]

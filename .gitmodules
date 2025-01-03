@@ -1,0 +1,6 @@
+[submodule "submodules/MultiHop-RAG"]
+	path = submodules/MultiHop-RAG
+	url = git@github.com:zaristei3/MultiHop-RAG.git
+[submodule "submodules/nebula-docker-compose"]
+	path = submodules/nebula-docker-compose
+	url = https://github.com/vesoft-inc/nebula-docker-compose.git
